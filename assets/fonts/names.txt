@@ -1,0 +1,51 @@
+- family: Adobe_arabic_shin
+  fonts:
+    - asset: assets/fonts/Adobe_arabic_shin.ttf
+- family: Adobe_shin_stouts
+  fonts:
+    - asset: assets/fonts/Adobe_shin_stouts.ttf
+- family: Air_Strip_Arabic
+  fonts:
+    - asset: assets/fonts/Air_Strip_Arabic.ttf
+- family: Aqlaam_Regular
+  fonts:
+    - asset: assets/fonts/Aqlaam_Regular.otf
+- family: Bareeq_Regular
+  fonts:
+    - asset: assets/fonts/Bareeq_Regular.otf
+- family: Bedayah_v.1.1
+  fonts:
+    - asset: assets/fonts/Bedayah_v.1.1.otf
+- family: B-NAZANIN
+  fonts:
+    - asset: assets/fonts/B-NAZANIN.TTF
+- family: Decora
+  fonts:
+    - asset: assets/fonts/Decora.ttf
+- family: Dima-Fantasy
+  fonts:
+    - asset: assets/fonts/Dima-Fantasy.ttf
+- family: Far_DastNevis
+  fonts:
+    - asset: assets/fonts/Far_DastNevis.otf
+- family: hekayat
+  fonts:
+    - asset: assets/fonts/hekayat.ttf
+- family: Nishan_Regular
+  fonts:
+    - asset: assets/fonts/Nishan_Regular.otf
+- family: Rawafed.Zainab
+  fonts:
+    - asset: assets/fonts/Rawafed.Zainab.otf
+- family: Sulimany_V2_Bold_Ornamented
+  fonts:
+    - asset: assets/fonts/Sulimany_V2_Bold_Ornamented.ttf
+- family: Sulimany_V2_Bold_Regular
+  fonts:
+    - asset: assets/fonts/Sulimany_V2_Bold_Regular.ttf
+
+
+
+- family: Vazir
+     fonts:
+       - asset: assets/fonts/Vazir.ttf
